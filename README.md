@@ -24,6 +24,7 @@
 
   <div align="center">
     <img src="https://user-images.githubusercontent.com/25181517/192149581-88194d20-1a37-4be8-8801-5dc0017ffbbe.png" height="40" alt="golang"  />
+     <img src="https://github.com/fastify/graphics/raw/HEAD/fastify-landscape-outlined.svg" height="40" alt="golang"  />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
     <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
