@@ -48,7 +48,6 @@
   ---
 
   ### 🔥 My GitHub Stats – Because Numbers Are Cool  
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=faniloniaina&theme=dark&hide_border=true)  
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faniloniaina&layout=compact&theme=dark)  
 
   ---
