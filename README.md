@@ -43,12 +43,11 @@
 
   ---
   - 🚀 99 bugs in the repo, take one down, 127 bugs in the repo...  
-  - 🎵 I type faster when there's music. (It's scientifically proven. Probably.)  
-  - ☕ I run on coffee, bad puns, and semicolons.  
+  - ☕ I run on bad puns, and semicolons.  
   ---
 
   ### 🔥 My GitHub Stats – Because Numbers Are Cool  
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faniloniaina&layout=compact&theme=dark)  
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faanrm&layout=compact&theme=dark)  
 
   ---
   _If you've made it this far, you either really like my profile or you're looking for a bug. Either way, thanks for stopping by!_ 😄  
